@@ -2,4 +2,4 @@
 456
 890
 new branch
-master branch
+conflict fixed
