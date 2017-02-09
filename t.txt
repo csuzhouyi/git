@@ -1,6 +1,7 @@
-123
+124
 456
 890
 new branch
 conflict fixed
 a new branch dev
+12
